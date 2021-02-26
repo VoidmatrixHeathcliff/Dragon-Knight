@@ -2,7 +2,7 @@
 
 ### 《巨龙与骑士》[EtherEngine](https://github.com/VoidmatrixHeathcliff/EtherEngine) 示例游戏
 
-+ 本项目仅做代码交流使用，所使用的图片和字体文件请勿随意商用
++ 本项目仅做代码交流使用，所使用的音乐、图片和字体文件请勿随意商用
 
 + 源代码位于 `Script` 文件夹下，同文件夹下的 `ESBuilder.exe` 运行后可将源代码编译为字节码文件
 
